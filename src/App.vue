@@ -25,7 +25,7 @@ body {
 
 .logo {
     width: 100px;
-    height: 100px
+    height: 100px;
 }
 </style>
 
@@ -36,7 +36,7 @@ body {
     <p>
         Welcome to your Vue.js app!
     </p>
-    <p>
+    <p> 
         To get a better understanding of how this boilerplate works, check out
         <a href="http://vuejs-templates.github.io/webpack" target="_blank">its documentation</a>. It is also recommended to go through the docs for
         <a href="http://webpack.github.io/" target="_blank">Webpack</a> and
